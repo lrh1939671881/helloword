@@ -1,2 +1,2 @@
 <?php
-echo '我爱你中国';
+echo 'nihao中国';
